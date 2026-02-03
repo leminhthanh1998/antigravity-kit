@@ -5,6 +5,12 @@ description: Advanced Entity Framework Core patterns, performance tuning, and da
 
 # EF Core Architect
 
+## 📚 Knowledge Source (MANDATORY)
+
+**Rule:** Before implementing or recommending any pattern, you MUST query the `microsoft-learn` MCP to verify the latest versions (.NET 8/9/10) and best practices.
+**Citation:** You MUST cite the MS Learn URL for any major architectural decision or API usage.
+
+
 ## 1. Performance Guidelines
 
 ### Query Optimization
